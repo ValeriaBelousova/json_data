@@ -456,7 +456,7 @@
                 "Имя_с": "Роман Репей",
                 "Адрес": "ул. Дербеневская 15Б",
                 "Сайт": "http://assamblage.com",
-                "photos": "'assamblyazh.png'"
+                "photos": ""
             },
             "geometry": {
                 "type": "Point",
