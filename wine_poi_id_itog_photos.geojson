@@ -939,7 +939,7 @@
                 "Имя_с": "Тамара Полякова",
                 "Адрес": "Кривоколенный пер. 10, стр.4",
                 "Сайт": "https://www.mosshotel.ru",
-                "photos": "'SOUL_of_Moss.png'"
+                "photos": "'42_0.jpg', 'SOUL_of_Moss.png'"
             },
             "geometry": {
                 "type": "Point",
