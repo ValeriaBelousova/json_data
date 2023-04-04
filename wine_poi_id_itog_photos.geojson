@@ -19,7 +19,7 @@
                 "Имя_с": "Алексей Данилов",
                 "Адрес": "ул. Охотный Ряд 2",
                 "Сайт": "https://www.peshirestoran.ru",
-                "photos": "'PESHI.png', '1_0.jpg', '1_1.jpg'"
+                "photos": "'1_0.jpg', '1_1.jpg', 'PESHI.png'"
             },
             "geometry": {
                 "type": "Point",
@@ -42,7 +42,7 @@
                 "Имя_с": "Лев Конев",
                 "Адрес": "Москва-сити, Башня ОКО, 84 этаж",
                 "Сайт": "https://birds.city",
-                "photos": "'BIRDS.png', '2_0.jpeg'"
+                "photos": "'2_0.jpeg', 'BIRDS.png'"
             },
             "geometry": {
                 "type": "Point",
@@ -65,7 +65,7 @@
                 "Имя_с": "Дмитрий Базашвили",
                 "Адрес": "Большой Козихинский пер. 9/12",
                 "Сайт": "https://instagram.com/amy.restaurant",
-                "photos": "'AMY_.png', '3_1.jpeg', '3_0.jpeg', '3_2.jpeg'"
+                "photos": "'3_1.jpeg', '3_0.jpeg', '3_2.jpeg', 'AMY_.png'"
             },
             "geometry": {
                 "type": "Point",
@@ -180,7 +180,7 @@
                 "Имя_с": "Сергей Кириллов",
                 "Адрес": "ул. Рочдельская 15, стр.22",
                 "Сайт": "https://touchewinebar.ru",
-                "photos": "'TOUCHE_CHAMP_BISTROT.png', '8_1.jpg'"
+                "photos": "'8_1.jpg', 'TOUCHE_CHAMP_BISTROT.png'"
             },
             "geometry": {
                 "type": "Point",
@@ -203,7 +203,7 @@
                 "Имя_с": "Иван Руднев",
                 "Адрес": "Большой Саввинский пер. 11, стр.1",
                 "Сайт": "https://dueforni.ru",
-                "photos": "'DUE_FORNI.png', '9_0.jpg', '9_1.jpg'"
+                "photos": "'9_0.jpg', '9_1.jpg', 'DUE_FORNI.png'"
             },
             "geometry": {
                 "type": "Point",
@@ -226,7 +226,7 @@
                 "Имя_с": "Дмитрий Семиболотний",
                 "Адрес": "Пречистенская набережная 13, стр.1",
                 "Сайт": "https://www.piazza-italiana.ru",
-                "photos": "'PIAZZA_ITALIANA.png', '10_1.jpg', '10_0.webp'"
+                "photos": "'10_1.jpg', '10_0.webp', 'PIAZZA_ITALIANA.png'"
             },
             "geometry": {
                 "type": "Point",
@@ -272,7 +272,7 @@
                 "Имя_с": "Александр Зубков",
                 "Адрес": "Благовещенский пер. 10, стр.2",
                 "Сайт": "http://unica-ristorante.ru",
-                "photos": "'Unica.png', '12_0.jpg'"
+                "photos": "'12_0.jpg', 'Unica.png'"
             },
             "geometry": {
                 "type": "Point",
@@ -318,7 +318,7 @@
                 "Имя_с": "Ольга Ерохина",
                 "Адрес": "Петровский Бульвар 14",
                 "Сайт": "https://soma.moscow",
-                "photos": "'Soma.png', '14_2.png', '14_3.png', '14_1.png', '14_0.png'"
+                "photos": "'14_2.png', '14_3.png', '14_1.png', '14_0.png', 'Soma.png'"
             },
             "geometry": {
                 "type": "Point",
@@ -341,7 +341,7 @@
                 "Имя_с": "Эдуард Тер-Геворкян",
                 "Адрес": "Романов пер. 2, стр.1",
                 "Сайт": "https://nd.club",
-                "photos": "'NOODOME.png', '15_1.PNG', '15_2.jpeg', '15_3.jpeg', '15_4.PNG'"
+                "photos": "'15_1.PNG', '15_2.jpeg', '15_3.jpeg', '15_4.PNG', 'NOODOME.png'"
             },
             "geometry": {
                 "type": "Point",
@@ -364,7 +364,7 @@
                 "Имя_с": "Павел Карпец",
                 "Адрес": "ул. Большая Никитская 22",
                 "Сайт": "https://yug22.ru/#intro",
-                "photos": "'yug22.png', '16_0.jpg', '16_1.jpg', '16_2.jpg'"
+                "photos": "'16_0.jpg', '16_1.jpg', '16_2.jpg', 'yug22.png'"
             },
             "geometry": {
                 "type": "Point",
@@ -410,7 +410,7 @@
                 "Имя_с": "Юлия Илюшина",
                 "Адрес": "Большой Тишинский пер. 45",
                 "Сайт": "https://dosage.msk.ruu",
-                "photos": "'DOSAGE.png', 18_0.jpg', '18_1.jpg', '18_2.jpg'"
+                "photos": "'18_0.jpg', '18_1.jpg', '18_2.jpg', 'DOSAGE.png'"
             },
             "geometry": {
                 "type": "Point",
@@ -433,7 +433,7 @@
                 "Имя_с": "Игорь Перепелица",
                 "Адрес": "ул. Малая Пироговская 8",
                 "Сайт": "https://verd.moscow",
-                "photos": "'VERD.png', '19_2.jpg', '19_0.jpg', '19_1.jpg'"
+                "photos": "'19_2.jpg', '19_0.jpg', '19_1.jpg', 'VERD.png'"
             },
             "geometry": {
                 "type": "Point",
@@ -479,7 +479,7 @@
                 "Имя_с": "Алексей Кудишкин",
                 "Адрес": "Благовещенский пер. 1А",
                 "Сайт": "https://instagram.com/pair.store",
-                "photos": "'pair1.png', 'pair2.png', 'pair3.png', '21_2.jpg', '21_1.jpg', '21_0.jpg'"
+                "photos": "'21_2.jpg', '21_1.jpg', '21_0.jpg', 'pair1.png', 'pair2.png', 'pair3.png'"
             },
             "geometry": {
                 "type": "Point",
@@ -502,7 +502,7 @@
                 "Имя_с": "Сергей Аксеновский",
                 "Адрес": "Тверской бульвар 26, стр.3",
                 "Сайт": "https://www.turandot-palace.ru",
-                "photos": "'turandot.png', '23_0.PNG', '23_1.PNG', '23_3.jpeg', '23_2.jpeg', '23_4.JPG'"
+                "photos": "'23_0.PNG', '23_1.PNG', '23_3.jpeg', '23_2.jpeg', '23_4.JPG', 'turandot.png'"
             },
             "geometry": {
                 "type": "Point",
@@ -525,7 +525,7 @@
                 "Имя_с": "Валерия Мартюк",
                 "Адрес": "ул. 1-я Тверская-Ямская 21",
                 "Сайт": "https://sagemoscow.ru",
-                "photos": "'sage.png', '24_1.jpeg', '24_0.jpeg'"
+                "photos": "'24_1.jpeg', '24_0.jpeg', 'sage.png'"
             },
             "geometry": {
                 "type": "Point",
@@ -548,7 +548,7 @@
                 "Имя_с": "Янина Мартынюк",
                 "Адрес": "Театральный проезд 2",
                 "Сайт": "https://www.savvarest.ru",
-                "photos": "'savva.png', '25_0.jpg', '25_1.jpg', '25_2.jpg'"
+                "photos": "'25_0.jpg', '25_1.jpg', '25_2.jpg', 'savva.png'"
             },
             "geometry": {
                 "type": "Point",
@@ -571,7 +571,7 @@
                 "Имя_с": "Сармат Габараев",
                 "Адрес": "Цветной бульвар 2, БЦ «Легенда Цветного»",
                 "Сайт": "https://amber.rest",
-                "photos": "'AMBER.png', '26_1.jpg', '26_0.jpg', '26_2.png', '26_3.jpg'"
+                "photos": "'26_1.jpg', '26_0.jpg', '26_2.png', '26_3.jpg', 'AMBER.png'"
             },
             "geometry": {
                 "type": "Point",
@@ -594,7 +594,7 @@
                 "Имя_с": "Анатолий Шабанов",
                 "Адрес": "Цветной бульвар 2, БЦ «Легенда Цветного»",
                 "Сайт": "https://folk.rest/",
-                "photos": "'FOLK.png', '27_2.jpg', '27_1.jpg', '27_0.jpg'"
+                "photos": "'27_2.jpg', '27_1.jpg', '27_0.jpg', 'FOLK.png'"
             },
             "geometry": {
                 "type": "Point",
@@ -617,7 +617,7 @@
                 "Имя_с": "Анастасия Чиркова",
                 "Адрес": "Столешников пер. 2, стр.1",
                 "Сайт": "https://www.km20.ru/cafe/",
-                "photos": "'km20.png', '28_1.JPG', '28_2.JPG', '28_3.JPG', '28_4.jpg'"
+                "photos": "'28_1.JPG', '28_2.JPG', '28_3.JPG', '28_4.jpg', 'km20.png'"
             },
             "geometry": {
                 "type": "Point",
@@ -663,7 +663,7 @@
                 "Имя_с": "Артём Самойлов",
                 "Адрес": "Страстной бульвар 8А",
                 "Сайт": "http://twinsgarden.ru",
-                "photos": "'twins.png', '30_3.jpg', '30_1.jpg', '30_0.jpeg', '30_2.jpeg'"
+                "photos": "'30_3.jpg', '30_1.jpg', '30_0.jpeg', '30_2.jpeg', 'twins.png'"
             },
             "geometry": {
                 "type": "Point",
@@ -686,7 +686,7 @@
                 "Имя_с": "Евгения Назимова",
                 "Адрес": "ул. Большая Никитская 24/1, стр.6",
                 "Сайт": "https://maya.lucky-group.rest",
-                "photos": "'MAYA.png', '31_0.jpg', '31_3.jpeg', '31_2.jpg', '31_1.jpeg'"
+                "photos": "'31_0.jpg', '31_3.jpeg', '31_2.jpg', '31_1.jpeg', 'MAYA.png'"
             },
             "geometry": {
                 "type": "Point",
@@ -709,7 +709,7 @@
                 "Имя_с": "Ефремова Александра",
                 "Адрес": "Большая Никитская 21/18, стр.1",
                 "Сайт": "https://loro.lucky-group.rest",
-                "photos": "'LORO.png', '32_1.jpg', '32_0.jpg'"
+                "photos": "'32_1.jpg', '32_0.jpg', 'LORO.png'"
             },
             "geometry": {
                 "type": "Point",
@@ -732,7 +732,7 @@
                 "Имя_с": "Никоненко Александра",
                 "Адрес": "Дмитровский пер. 11",
                 "Сайт": "https://londri.lucky-group.rest",
-                "photos": "'LONDRI.png', '33_2.jpg', '33_3.jpg', '33_1.jpg', '33_0.jpg'"
+                "photos": "'33_2.jpg', '33_3.jpg', '33_1.jpg', '33_0.jpg', 'LONDRI.png'"
             },
             "geometry": {
                 "type": "Point",
@@ -755,7 +755,7 @@
                 "Имя_с": "Антон Жуков",
                 "Адрес": "ул. Большая Никитская 22/2",
                 "Сайт": "https://345.lucky-group.rest",
-                "photos": "'345.png', '34_1.jpg', '34_2.jpg', '34_3.png', '34_0.jpeg'"
+                "photos": "'34_1.jpg', '34_2.jpg', '34_3.png', '34_0.jpeg', '345.png'"
             },
             "geometry": {
                 "type": "Point",
@@ -778,7 +778,7 @@
                 "Имя_с": "Никита Уренцев",
                 "Адрес": "Цветной бульвар 2, БЦ «Легенда Цветного»",
                 "Сайт": "https://pinskiy.co/restaurant/pigeon",
-                "photos": "'Le_Pigeon.png', '35_2.jpeg', '35_1.webp', '35_0.jpeg'"
+                "photos": "'35_2.jpeg', '35_1.webp', '35_0.jpeg', 'Le_Pigeon.png'"
             },
             "geometry": {
                 "type": "Point",
@@ -801,7 +801,7 @@
                 "Имя_с": "Екатерина Кудрявцева",
                 "Адрес": "Тверской бульвар 24, стр.1",
                 "Сайт": "https://loona.rest",
-                "photos": "'LOONA_PATRIKI_AVA.png', '36_4.png', '36_3.jpg', '36_0.jpg', '36_1.jpg', '36_2.jpeg'"
+                "photos": "'36_4.png', '36_3.jpg', '36_0.jpg', '36_1.jpg', '36_2.jpeg', 'LOONA_PATRIKI_AVA.png'"
             },
             "geometry": {
                 "type": "Point",
@@ -870,7 +870,7 @@
                 "Имя_с": "Елена Капанелли",
                 "Адрес": "Большой Патриарший пер. 7, стр.1",
                 "Сайт": "https://rappoport.restaurant/restaurant/pavilion-prud-patriki",
-                "photos": "'PAVILLION.png', '39_0.jpg', '39_1.jpg', '39_3.jpg', '39_2.jpg'"
+                "photos": "'39_0.jpg', '39_1.jpg', '39_3.jpg', '39_2.jpg', 'PAVILLION.png'"
             },
             "geometry": {
                 "type": "Point",
@@ -893,7 +893,7 @@
                 "Имя_с": "Евгений Коваленко",
                 "Адрес": "ул. Большая Никитская 62/3",
                 "Сайт": "https://bigwinefreaks.ru/msk/",
-                "photos": "'BIG_WINE_FREAKS_1.png', '40_3.jpg', '40_2.jpg', '40_1.jpg'"
+                "photos": "'40_3.jpg', '40_2.jpg', '40_1.jpg', 'BIG_WINE_FREAKS_1.png'"
             },
             "geometry": {
                 "type": "Point",
@@ -916,7 +916,7 @@
                 "Имя_с": "Никуличев Владислав",
                 "Адрес": "ул. Большая Дмитровка 10",
                 "Сайт": "https://instagram.com/rocky2.moscow",
-                "photos": "'Rocky_2.png', '41_0.jpg', '41_1.jpg', '41_2.jpg'"
+                "photos": "'41_0.jpg', '41_1.jpg', '41_2.jpg', 'Rocky_2.png'"
             },
             "geometry": {
                 "type": "Point",
@@ -962,7 +962,7 @@
                 "Имя_с": "Светлана Щенникова",
                 "Адрес": "ул. Малая Никитская 16",
                 "Сайт": "https://www.probka.org/restaurants/mina-msk/",
-                "photos": "'MINA.png', '43_1.jpeg', '43_2.webp', '43_3.jpg', '43_0.jpg'"
+                "photos": "'43_1.jpeg', '43_2.webp', '43_3.jpg', '43_0.jpg', 'MINA.png'"
             },
             "geometry": {
                 "type": "Point",
@@ -985,7 +985,7 @@
                 "Имя_с": "Сергей Голубев",
                 "Адрес": "ул. Малая Бронная 24, стр.1",
                 "Сайт": "https://www.probka.org/restaurants/maritozzo/",
-                "photos": "'MARITOZZO.png', '44_1.jpg', '44_0.jpg', '44_2.jpg'"
+                "photos": "'44_1.jpg', '44_0.jpg', '44_2.jpg', 'MARITOZZO.png'"
             },
             "geometry": {
                 "type": "Point",
@@ -1008,7 +1008,7 @@
                 "Имя_с": "Владислав Шумилкин",
                 "Адрес": "Цветной бульвар 2, БЦ «Легенда Цветного»",
                 "Сайт": "https://www.probka.org/restaurants/probka-msk/",
-                "photos": "'PROBKA.png', '45_2.jpeg', '45_1.jpg', '45_0.jpg'"
+                "photos": "'45_2.jpeg', '45_1.jpg', '45_0.jpg', 'PROBKA.png'"
             },
             "geometry": {
                 "type": "Point",
@@ -1031,7 +1031,7 @@
                 "Имя_с": "Светлана Добрынина",
                 "Адрес": "Новинский бульвар, 31 (тдц “Новинский”, 2 этаж)",
                 "Сайт": "https://selfiemoscow.ru",
-                "photos": "'SELFIE.png', '46_2.jpg', '46_0.jpg', '46_1.jpg'"
+                "photos": "'46_2.jpg', '46_0.jpg', '46_1.jpg', 'SELFIE.png'"
             },
             "geometry": {
                 "type": "Point",
@@ -1054,7 +1054,7 @@
                 "Имя_с": "Любовь Павликова",
                 "Адрес": "ул. Большая Никитская 5",
                 "Сайт": "https://gvidon.wrf.su",
-                "photos": "'GVIDON.png', '47_3.webp', '47_5.jpg', '47_4.png', '47_0.png', '47_1.jpg', '47_2.png'"
+                "photos": "'47_3.webp', '47_5.jpg', '47_4.png', '47_0.png', '47_1.jpg', '47_2.png', 'GVIDON.png'"
             },
             "geometry": {
                 "type": "Point",
@@ -1077,7 +1077,7 @@
                 "Имя_с": "Алексей Барков",
                 "Адрес": "ул. Большая Никитская 5",
                 "Сайт": "https://ikra.wrf.su/moscow",
-                "photos": "'Ikra.png', '48_0.jpg', '48_1.jpg'"
+                "photos": "'48_0.jpg', '48_1.jpg', 'Ikra.png'"
             },
             "geometry": {
                 "type": "Point",
@@ -1100,7 +1100,7 @@
                 "Имя_с": "Антон Суздальский",
                 "Адрес": "ул. Тверская 3",
                 "Сайт": "https://www.sartorialamberti.com",
-                "photos": "'SARTORIA_LAMBERTI.png', '49_2.webp', '49_1.webp', '49_0.webp'"
+                "photos": "'49_2.webp', '49_1.webp', '49_0.webp', 'SARTORIA_LAMBERTI.png'"
             },
             "geometry": {
                 "type": "Point",
@@ -1123,7 +1123,7 @@
                 "Имя_с": "Руслан Слива",
                 "Адрес": "Тверской бульвар 15, стр.1",
                 "Сайт": "https://instagram.com/simach_v_nedalnem",
-                "photos": "'SIMACH.png', '50_1.jpg', '50_2.jpg', '50_3.jpg'"
+                "photos": "'50_1.jpg', '50_2.jpg', '50_3.jpg', 'SIMACH.png'"
             },
             "geometry": {
                 "type": "Point",
@@ -1169,7 +1169,7 @@
                 "Имя_с": "Морозов Максим",
                 "Адрес": "ул. Трубецкая 10",
                 "Сайт": "http://mosnordic.ru",
-                "photos": "'MOS.png', '52_2.jpg', '52_3.jpeg', '52_1.jpg'"
+                "photos": "'52_2.jpg', '52_3.jpeg', '52_1.jpg', 'MOS.png'"
             },
             "geometry": {
                 "type": "Point",
@@ -1192,7 +1192,7 @@
                 "Имя_с": "Дмитрий Крехов",
                 "Адрес": "Калашный пер. 9",
                 "Сайт": "https://instagram.com/navina_msk",
-                "photos": "'NA_VINA_K9.png', '53_1.jpeg', '53_0.jpeg', '53_3.jpeg', '53_2.jpeg'"
+                "photos": "'53_1.jpeg', '53_0.jpeg', '53_3.jpeg', '53_2.jpeg', 'NA_VINA_K9.png'"
             },
             "geometry": {
                 "type": "Point",
@@ -1215,7 +1215,7 @@
                 "Имя_с": "Дарья Андреева",
                 "Адрес": "ул. Льва Толстого 20",
                 "Сайт": "https://instagram.com/navina_msk",
-                "photos": "'NA_VINA_ROSA.png', '54_3.jpeg', '54_2.jpeg', '54_1.jpeg'"
+                "photos": "'54_3.jpeg', '54_2.jpeg', '54_1.jpeg', 'NA_VINA_ROSA.png'"
             },
             "geometry": {
                 "type": "Point",
@@ -1284,7 +1284,7 @@
                 "Имя_с": "Амир Газимагомедов",
                 "Адрес": "Сколково, ул. Новая 100",
                 "Сайт": "https://skolkovogolf.com/restaurant",
-                "photos": "'skolkovo.png', '57_4.jpg', '57_2.jpg', '57_3.jpg', '57_1.jpg', '57_0.jpg'"
+                "photos": "'57_4.jpg', '57_2.jpg', '57_3.jpg', '57_1.jpg', '57_0.jpg', 'skolkovo.png'"
             },
             "geometry": {
                 "type": "Point",
@@ -1307,7 +1307,7 @@
                 "Имя_с": "Юлия Гневашева",
                 "Адрес": "ул. Пушкина 15",
                 "Сайт": "https://lovewinefish.ru",
-                "photos": "'lubit_vino.png', '58_1.JPG', '58_0.JPG'"
+                "photos": "'58_1.JPG', '58_0.JPG', 'lubit_vino.png'"
             },
             "geometry": {
                 "type": "Point",
@@ -1330,7 +1330,7 @@
                 "Имя_с": "Александр Волощук",
                 "Адрес": "пр-т Мира 86",
                 "Сайт": "http://075please.ru",
-                "photos": "'075please.png', '59_2.jpg', '59_1.jpg'"
+                "photos": "'59_2.jpg', '59_1.jpg', '075please.png'"
             },
             "geometry": {
                 "type": "Point",
@@ -1353,7 +1353,7 @@
                 "Имя_с": "Ян Скопин",
                 "Адрес": "ул. Колыванская 8",
                 "Сайт": "https://www.skopin-wine.ru",
-                "photos": "'skopin.png', '60_0.PNG', '60_1.PNG'"
+                "photos": "'60_0.PNG', '60_1.PNG', 'skopin.png'"
             },
             "geometry": {
                 "type": "Point",
@@ -1376,7 +1376,7 @@
                 "Имя_с": "Вячеслав Уваров",
                 "Адрес": "ул. Грузинская 30",
                 "Сайт": "http://www.negronibar.ru",
-                "photos": "'NEGRONI.png', '61_2.webp', '61_1.webp', '61_0.webp'"
+                "photos": "'61_2.webp', '61_1.webp', '61_0.webp', 'NEGRONI.png'"
             },
             "geometry": {
                 "type": "Point",
@@ -1422,7 +1422,7 @@
                 "Имя_с": "Кирилл Сулима",
                 "Адрес": "Октябрьская пл. 1",
                 "Сайт": "https://vinedo.ru",
-                "photos": "'VINEDO.png', '63_1.jpg', '63_0.jpg'"
+                "photos": "'63_1.jpg', '63_0.jpg', 'VINEDO.png'"
             },
             "geometry": {
                 "type": "Point",
@@ -1445,7 +1445,7 @@
                 "Имя_с": "Дарья Гудина, Алёна Сафарова",
                 "Адрес": "ул. Ленина 21",
                 "Сайт": "https://nuvowine.ru",
-                "photos": "'nuvo.png', '64_2.jpg', '64_3.PNG', '64_1.JPG'"
+                "photos": "'64_2.jpg', '64_3.PNG', '64_1.JPG', 'nuvo.png'"
             },
             "geometry": {
                 "type": "Point",
@@ -1468,7 +1468,7 @@
                 "Имя_с": "Роман Ефременко, Семен Соловтев, Илья Гоголев",
                 "Адрес": "ул. Радищева 24; ул. Белинского 32",
                 "Сайт": "https://vinotekasoloveva.ru",
-                "photos": "'solovyov.png', '99_1.webp', '99_0.webp'"
+                "photos": "'99_1.webp', '99_0.webp', 'solovyov.png'"
             },
             "geometry": {
                 "type": "Point",
@@ -1491,7 +1491,7 @@
                 "Имя_с": "Ульяна Рудзевич",
                 "Адрес": "ул. Советская 54",
                 "Сайт": "https://instagram.com/eclectic_wine?igshid=YmMyMTA2M2Y=",
-                "photos": "'Eclectic_Wine.png', '66_0.jpeg', '66_1.jpeg'"
+                "photos": "'66_0.jpeg', '66_1.jpeg', 'Eclectic_Wine.png'"
             },
             "geometry": {
                 "type": "Point",
@@ -1514,7 +1514,7 @@
                 "Имя_с": "Владимир Бондарчук",
                 "Адрес": "ул. Ленина 56",
                 "Сайт": "https://instagram.com/vinotecabondarchuka?igshid=YmMyMTA2M2Y=",
-                "photos": "'bondarchuk.png', '67_0.jpg'"
+                "photos": "'67_0.jpg', 'bondarchuk.png'"
             },
             "geometry": {
                 "type": "Point",
@@ -1537,7 +1537,7 @@
                 "Имя_с": "Роман Сергеев",
                 "Адрес": "ул. Малышева 61",
                 "Сайт": "https://bioshmiobar.ru/",
-                "photos": "'bioshmio.png', '68_0.jpg', '68_1.jpg', '68_3.jpg', '68_2.jpg'"
+                "photos": "'68_0.jpg', '68_1.jpg', '68_3.jpg', '68_2.jpg', 'bioshmio.png'"
             },
             "geometry": {
                 "type": "Point",
@@ -1583,7 +1583,7 @@
                 "Имя_с": "Евгений Шамов",
                 "Адрес": "ул. Воскова 31/20",
                 "Сайт": "https://instagram.com/lastochkiwinebar?igshid=YmMyMTA2M2Y=",
-                "photos": "'lastochki.png', '70_4.JPG', '70_5.JPG', '70_7.JPG', '70_3.JPG', '70_1.JPG', '70_0.JPG', '70_8.JPG', '70_9.JPG'"
+                "photos": "'70_4.JPG', '70_5.JPG', '70_7.JPG', '70_3.JPG', '70_1.JPG', '70_0.JPG', '70_8.JPG', '70_9.JPG', 'lastochki.png'"
             },
             "geometry": {
                 "type": "Point",
@@ -1606,7 +1606,7 @@
                 "Имя_с": "Людмила Иванова",
                 "Адрес": "наб. реки Фонтанки 11",
                 "Сайт": "https://thedreamerscafe.ru",
-                "photos": "'mechtateli.png', '71_0.jpg'"
+                "photos": "'71_0.jpg', 'mechtateli.png'"
             },
             "geometry": {
                 "type": "Point",
@@ -1629,7 +1629,7 @@
                 "Имя_с": "Ася Полякова",
                 "Адрес": "Малый Проспект Васильевского Острова 57",
                 "Сайт": "https://instagram.com/ognivo_rest?igshid=YmMyMTA2M2Y=",
-                "photos": "'OGNIVO.png', '72_5.jpg', '72_1.jpg', '72_3.jpg', '72_2.jpg', '73_4.jpg.webp'"
+                "photos": "'72_5.jpg', '72_1.jpg', '72_3.jpg', '72_2.jpg', '73_4.jpg.webp', 'OGNIVO.png'"
             },
             "geometry": {
                 "type": "Point",
@@ -1652,7 +1652,7 @@
                 "Имя_с": "Иван Николаев",
                 "Адрес": "ул. Уборевича 15",
                 "Сайт": "https://instagram.com/grunerwine?igshid=YmMyMTA2M2Y=",
-                "photos": "'Gruner.png', '73_2.jpg', '73_1.webp'"
+                "photos": "'73_2.jpg', '73_1.webp', 'Gruner.png'"
             },
             "geometry": {
                 "type": "Point",
@@ -1721,7 +1721,7 @@
                 "Имя_с": "Анастасия Максимова",
                 "Адрес": "ул. Восстания 45",
                 "Сайт": "https://italyco.rest/juan?utm_source=google_maps&utm_medium=referral&utm_campaign=juan&utm_content=link&utm_term=juan",
-                "photos": "'JUAN.png', '76_0.webp', '76_1.jpg'"
+                "photos": "'76_0.webp', '76_1.jpg', 'JUAN.png'"
             },
             "geometry": {
                 "type": "Point",
@@ -1744,7 +1744,7 @@
                 "Имя_с": "Антон Корчак",
                 "Адрес": "Новая Голландия, наб. Адмиралтейского канала 2М",
                 "Сайт": "https://kuznyahouse.ru",
-                "photos": "'KUZNYA.png', '77_1.jpg', '77_0.jpg', '77_2.webp'"
+                "photos": "'77_1.jpg', '77_0.jpg', '77_2.webp', 'KUZNYA.png'"
             },
             "geometry": {
                 "type": "Point",
@@ -1767,7 +1767,7 @@
                 "Имя_с": "Полина Новичкова",
                 "Адрес": "ул. Большая Морская 30",
                 "Сайт": "https://seasignora.ru/en/",
-                "photos": "'Sea_Signora_Marso_Saviv.png', '78_2.jpg', '78_3.jpg', '78_1.jpg', '78_0.jpg'"
+                "photos": "'78_2.jpg', '78_3.jpg', '78_1.jpg', '78_0.jpg', 'Sea_Signora_Marso_Saviv.png'"
             },
             "geometry": {
                 "type": "Point",
@@ -1790,7 +1790,7 @@
                 "Имя_с": "Евгений Фадеев",
                 "Адрес": "Вознесенский пр-т 6",
                 "Сайт": "https://fresas.restaurant",
-                "photos": "'FRESA_S.png', '79_1.jpg.webp', '79_2.jpg', '79_3.jpeg'"
+                "photos": "'79_1.jpg.webp', '79_2.jpg', '79_3.jpeg', 'FRESA_S.png'"
             },
             "geometry": {
                 "type": "Point",
@@ -1836,7 +1836,7 @@
                 "Имя_с": "Денис Шмарин",
                 "Адрес": "ул. Большая Зеленина 23А",
                 "Сайт": "http://gardenpetersburg.com",
-                "photos": "'sad.png', '81_0.jpg', '81_1.jpeg', '81_2.jpeg'"
+                "photos": "'81_0.jpg', '81_1.jpeg', '81_2.jpeg', 'sad.png'"
             },
             "geometry": {
                 "type": "Point",
@@ -1859,7 +1859,7 @@
                 "Имя_с": "Сюзанна Карагезян",
                 "Адрес": "ул. Инструментальная 3B",
                 "Сайт": "https://bigwinefreaks.ru/spb/",
-                "photos": "'BIG_WINE_FREAKS_2.png', '82_1.JPG', '82_2.JPG', '82_3.JPG'"
+                "photos": "'82_1.JPG', '82_2.JPG', '82_3.JPG', 'BIG_WINE_FREAKS_2.png'"
             },
             "geometry": {
                 "type": "Point",
@@ -1882,7 +1882,7 @@
                 "Имя_с": "Екатерина Лаврентьева",
                 "Адрес": "ул. Новгородская 20",
                 "Сайт": "https://italyco.rest/ante",
-                "photos": "'ANTE.png', '83_2.jpg', '83_1.jpg', '83_0.jpg'"
+                "photos": "'83_2.jpg', '83_1.jpg', '83_0.jpg', 'ANTE.png'"
             },
             "geometry": {
                 "type": "Point",
@@ -1905,7 +1905,7 @@
                 "Имя_с": "Михаил Симоненко",
                 "Адрес": "Медиков пр-т 10",
                 "Сайт": "https://italyco.rest/hitch-moskovskiy",
-                "photos": "'HITCH.png', '84_0.jpeg', '84_2.webp', '84_4.jpg', '84_1.jpg', '84_3.jpg'"
+                "photos": "'84_0.jpeg', '84_2.webp', '84_4.jpg', '84_1.jpg', '84_3.jpg', 'HITCH.png'"
             },
             "geometry": {
                 "type": "Point",
@@ -1928,7 +1928,7 @@
                 "Имя_с": "Андрей Ермишкин",
                 "Адрес": "наб. Адмирала Лазарева 22",
                 "Сайт": "https://instagram.com/saro_restaurant?igshid=YmMyMTA2M2Y=",
-                "photos": "'SARO.png', '85_2.JPG', '85_1.JPG', '85_0.JPG'"
+                "photos": "'85_2.JPG', '85_1.JPG', '85_0.JPG', 'SARO.png'"
             },
             "geometry": {
                 "type": "Point",
@@ -1951,7 +1951,7 @@
                 "Имя_с": "Сергей Калмыков",
                 "Адрес": "наб. реки Фонтанки 30",
                 "Сайт": "http://atelierfamily.ru/salonepastabar#rec432563680",
-                "photos": "'SALONE_ATELIER.png', '86_2.jpg', '86_1.jpg'"
+                "photos": "'86_2.jpg', '86_1.jpg', 'SALONE_ATELIER.png'"
             },
             "geometry": {
                 "type": "Point",
@@ -1974,7 +1974,7 @@
                 "Имя_с": "Сергей Калмыков",
                 "Адрес": "ул. Лахтинская 8",
                 "Сайт": "http://atelierfamily.ru/ateliertapasbar#rec431647297",
-                "photos": "'SALONE_ATELIER.png', '87_1.webp', '87_2.jpg'"
+                "photos": "'87_1.webp', '87_2.jpg', 'SALONE_ATELIER.png'"
             },
             "geometry": {
                 "type": "Point",
@@ -1997,7 +1997,7 @@
                 "Имя_с": "Александра Кизеева",
                 "Адрес": "ул. Инструментальная 3B",
                 "Сайт": "https://winesklad.ru",
-                "photos": "'vinny_sklad.png', '88_3.jpg', '88_2.jpg', '88_1.jpg'"
+                "photos": "'88_3.jpg', '88_2.jpg', '88_1.jpg', 'vinny_sklad.png'"
             },
             "geometry": {
                 "type": "Point",
@@ -2020,7 +2020,7 @@
                 "Имя_с": "Анастасия Гаврилова",
                 "Адрес": "ул. Почтамтская 3-5",
                 "Сайт": "https://ginza.ru/spb/restaurant/mansarda",
-                "photos": "'mansarda.png', '89_0.jpg', '89_1.jpg', '89_2.jpeg'"
+                "photos": "'89_0.jpg', '89_1.jpg', '89_2.jpeg', 'mansarda.png'"
             },
             "geometry": {
                 "type": "Point",
@@ -2043,7 +2043,7 @@
                 "Имя_с": "Артём Гончаров",
                 "Адрес": "Новая Голландия, наб. Адмиралтейского канала 2И",
                 "Сайт": "https://cococouture.ru",
-                "photos": "'COCOCOUTURE.png', '90_0.jpg', '90_2.jpg', '90_3.jpg'"
+                "photos": "'90_0.jpg', '90_2.jpg', '90_3.jpg', 'COCOCOUTURE.png'"
             },
             "geometry": {
                 "type": "Point",
@@ -2089,7 +2089,7 @@
                 "Имя_с": "Виктория Малышева",
                 "Адрес": "Невский пр-т 28, 2-й этаж Дома Книги",
                 "Сайт": "https://instagram.com/rene__cafe?igshid=YmMyMTA2M2Y=",
-                "photos": "'RENE_ASTER.png', '92_0.jpeg', '92_1.jpg'"
+                "photos": "'92_0.jpeg', '92_1.jpg', 'RENE_ASTER.png'"
             },
             "geometry": {
                 "type": "Point",
@@ -2112,7 +2112,7 @@
                 "Имя_с": "Владислав Канзюба",
                 "Адрес": "Будённовский пр-т 68/81",
                 "Сайт": "https://instagram.com/caudaldon?igshid=YmMyMTA2M2Y=",
-                "photos": "'kaudal.png', '93_0.jpg'"
+                "photos": "'93_0.jpg', 'kaudal.png'"
             },
             "geometry": {
                 "type": "Point",
@@ -2135,7 +2135,7 @@
                 "Имя_с": "Максим Лесниченко, Влада Лесниченко",
                 "Адрес": "ул. 1-я Тверская-Ямская 13",
                 "Сайт": "http://drinx.store",
-                "photos": "'DRINX.png', '94_0.jpeg', '94_1.jpg'"
+                "photos": "'94_0.jpeg', '94_1.jpg', 'DRINX.png'"
             },
             "geometry": {
                 "type": "Point",
@@ -2250,7 +2250,7 @@
                 "Имя_с": "Роман Ефременко, Семен Соловтев, Илья Гоголев",
                 "Адрес": "ул. Белинского 32",
                 "Сайт": "https://vinotekasoloveva.ru",
-                "photos": "'solovyov.png', '99_1.webp', '99_0.webp'"
+                "photos": "'99_1.webp', '99_0.webp', 'solovyov.png'"
             },
             "geometry": {
                 "type": "Point",
@@ -2273,7 +2273,7 @@
                 "Имя_с": "Константин Носач",
                 "Адрес": "Первый Николощеповский пер., \"БЦ Смоленский пассаж 2\", 4 этаж",
                 "Сайт": "https://meat-coin.com",
-                "photos": "'MEAT_COIN.png', '22_1.jpeg', '22_2.jpg', '22_0.jpg', '22_3.jpeg'"
+                "photos": "'22_1.jpeg', '22_2.jpg', '22_0.jpg', '22_3.jpeg', 'MEAT_COIN.png'"
             },
             "geometry": {
                 "type": "Point",
