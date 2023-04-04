@@ -318,7 +318,7 @@
                 "Имя_с": "Ольга Ерохина",
                 "Адрес": "Петровский Бульвар 14",
                 "Сайт": "https://soma.moscow",
-                "photos": "'14_2.png', '14_3.png', '14_1.png', '14_0.png', 'Soma.png'"
+                "photos": "'14_1.png', '14_2.png', '14_3.png', '14_0.png', 'Soma.png'"
             },
             "geometry": {
                 "type": "Point",
