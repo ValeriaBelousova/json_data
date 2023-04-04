@@ -640,7 +640,7 @@
                 "Имя_с": "Полина Новичкова",
                 "Адрес": "ул. Петровка 30/7",
                 "Сайт": "https://moscow.saviv.ru",
-                "photos": "'29_2.png', '29_1.png'"
+                "photos": "'29_2.png', '29_1.png', 'Sea_Signora_Marso_Saviv.png'"
             },
             "geometry": {
                 "type": "Point",
@@ -824,7 +824,7 @@
                 "Имя_с": "Екатерина Кудрявцева",
                 "Адрес": "ул. Малая Бронная 21/13, стр.2",
                 "Сайт": "https://ava.rest",
-                "photos": "'37_0.webp', '37_1.jpg'"
+                "photos": "'37_0.webp', '37_1.jpg', 'LOONA_PATRIKI_AVA.png'"
             },
             "geometry": {
                 "type": "Point",
@@ -847,7 +847,7 @@
                 "Имя_с": "Екатерина Кудрявцева",
                 "Адрес": "ул. Малая Бронная 21/13, стр.2",
                 "Сайт": "https://patriki.rest",
-                "photos": "'38_0.jpg', '38_1.jpg'"
+                "photos": "'38_0.jpg', '38_1.jpg', 'LOONA_PATRIKI_AVA.png'"
             },
             "geometry": {
                 "type": "Point",
@@ -1399,7 +1399,7 @@
                 "Имя_с": "Вячеслав Уваров",
                 "Адрес": "ул. Алексеевская 6",
                 "Сайт": "https://instagram.com/custo.rest",
-                "photos": "'62_0.webp', '62_1.webp', '62_2.webp'"
+                "photos": "'62_0.webp', '62_1.webp', '62_2.webp', 'NEGRONI.png'"
             },
             "geometry": {
                 "type": "Point",
