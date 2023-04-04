@@ -778,7 +778,7 @@
                 "Имя_с": "Никита Уренцев",
                 "Адрес": "Цветной бульвар 2, БЦ «Легенда Цветного»",
                 "Сайт": "https://pinskiy.co/restaurant/pigeon",
-                "photos": "'35_2.jpeg', '35_1.webp', '35_0.jpeg', 'Le_Pigeon.png'"
+                "photos": "'35_0.jpeg', '35_2.jpeg', '35_1.webp', 'Le_Pigeon.png'"
             },
             "geometry": {
                 "type": "Point",
