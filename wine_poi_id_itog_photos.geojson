@@ -1721,7 +1721,7 @@
                 "Имя_с": "Анастасия Максимова",
                 "Адрес": "ул. Восстания 45",
                 "Сайт": "https://italyco.rest/juan?utm_source=google_maps&utm_medium=referral&utm_campaign=juan&utm_content=link&utm_term=juan",
-                "photos": "'76_0.webp', '76_1.jpg', 'JUAN.png'"
+                "photos": "'76_1.jpg', '76_0.webp', 'JUAN.png'"
             },
             "geometry": {
                 "type": "Point",
