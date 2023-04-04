@@ -410,7 +410,7 @@
                 "Имя_с": "Юлия Илюшина",
                 "Адрес": "Большой Тишинский пер. 45",
                 "Сайт": "https://dosage.msk.ruu",
-                "photos": "'18_0.jpg', '18_1.jpg', '18_2.jpg', 'DOSAGE.png'"
+                "photos": "'18_2.jpg', '18_0.jpg', '18_1.jpg', 'DOSAGE.png'"
             },
             "geometry": {
                 "type": "Point",
