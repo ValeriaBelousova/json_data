@@ -1537,7 +1537,7 @@
                 "Имя_с": "Роман Сергеев",
                 "Адрес": "ул. Малышева 61",
                 "Сайт": "https://bioshmiobar.ru/",
-                "photos": "'68_0.jpg', '68_1.jpg', '68_3.jpg', '68_2.jpg', 'bioshmio.png'"
+                "photos": "'68_0.jpg', '68_2.jpg', 'bioshmio.png'"
             },
             "geometry": {
                 "type": "Point",
