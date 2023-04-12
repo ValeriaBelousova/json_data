@@ -2273,7 +2273,7 @@
                 "Имя_с": "София Шепето",
                 "Адрес": "Набережная реки Мойки, 64",
                 "Сайт": "https://64rest.ru/",
-                "photos": "'sixty.png'"
+                "photos": "'100_0.jpeg', '100_1.jpeg', '100_2.jpeg', 'sixty.png'"
             },
             "geometry": {
                 "type": "Point",
