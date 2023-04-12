@@ -864,12 +864,12 @@
             "properties": {
                 "id": 39,
                 "Номер": 39,
-                "Назва": "Pavilion",
+                "Назва": "Erwin Патрики Павильон Пруд",
                 "Тип_з": "Ресторан",
                 "Город": "Москва",
                 "Имя_с": "Елена Капанелли",
-                "Адрес": "Большой Патриарший пер. 7, стр.1",
-                "Сайт": "https://rappoport.restaurant/restaurant/pavilion-prud-patriki",
+                "Адрес": "Большой Патриарший пер., 5",
+                "Сайт": "https://erwin-pavilion.rest/",
                 "photos": "'39_0.jpg', '39_1.jpg', '39_3.jpg', '39_2.jpg', 'PAVILLION.png'"
             },
             "geometry": {
