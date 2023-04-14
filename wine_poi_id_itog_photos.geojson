@@ -2353,6 +2353,29 @@
                 ]
             },
             "id": 102
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 103,
+                "Номер": 103,
+                "Назва": "Joli Grand Bistrot",
+                "Тип_з": "Ресторан",
+                "Город": "Санкт-Петербург",
+                "Имя_с": "Анастасия Максимова",
+                "Адрес": "ул. Восстания 45",
+                "Сайт": "https://instagram.com/joli.restaurant?igshid=YmMyMTA2M2Y=",
+                "photos": "'joli.png'"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.361044,
+                    59.941407,
+                    0.0
+                ]
+            },
+            "id": 103
         }
     ]
 }
