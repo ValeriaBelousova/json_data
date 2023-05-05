@@ -2468,6 +2468,29 @@
                 ]
             },
             "id": 107
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 108,
+                "Номер": 108,
+                "Назва": "Kumpan Coffee & Wine Bar",
+                "Тип_з": "Бар, Городское кафе",
+                "Город": "Уфа",
+                "Имя_с": "Леонид Семенов",
+                "Адрес": "ул. Ленина, 60",
+                "Сайт": "https://instagram.com/kumpancafe?igshid=YmMyMTA2M2Y=",
+                "photos": "'108_0.jpg', 'kupman.jpg'"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.950719,
+                    54.731967,
+                    0.0
+                ]
+            },
+            "id": 108
         }
     ]
 }
